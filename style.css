@@ -216,3 +216,23 @@ span {
     align-items: center;
     font-size: 0.90rem;
 }
+
+.footer-panel2 {
+    background-color: #222f3d;
+    color: white;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 40px;
+}
+
+.footer-panel2 ul a {
+    display: block;
+    font-size: 0.80rem;
+    margin-top: 20px;
+    color: #dddddd;
+
+}
