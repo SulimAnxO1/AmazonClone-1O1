@@ -1,7 +1,4 @@
 {
-    "cSpell.words": [
-        "Flexbox",
-        "herosection",
-        "navlogo"
-    ]
+  "cSpell.words": ["Flexbox", "herosection", "navlogo"],
+  "liveServer.settings.port": 5501
 }

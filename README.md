@@ -1,69 +1,66 @@
-# 🛒 Amazon Clone (HTML & CSS)
+# 🛒 Amazon Homepage Clone
 
-A simple **Amazon Clone** built using **HTML5** and **CSS3**.  
-This project is made for **frontend development practice**, focusing on layouts, navigation bars, product grids, and footers.
+A responsive **Amazon homepage clone** built with **HTML and CSS**.  
+This project replicates the **UI and layout** of the Amazon landing page, featuring navigation, hero section, product grid, and footer links.
 
----
-
-## 🚀 Features
-
-- **Navigation Bar**
-  - Amazon logo
-  - Delivery address section
-  - Search bar
-  - Sign-in option
-  - Returns & Orders
-  - Cart icon
-
-- **Panel Menu**
-  - Quick links (Deals, Customer Service, Registry, Gift Cards, Sell)
-
-- **Hero Section**
-  - Large banner image with promotional text
-
-- **Shop Section**
-  - Product category boxes (Fashion, Electronics, Toys, Furniture, etc.)
-
-- **Footer**
-  - Back to top link
-  - Helpful links (Careers, Blog, About, Help, etc.)
+🌐 Live Demo: [View Project](https://amazon-homepage-clone-101.netlify.app/)
 
 ---
 
-## 🛠️ Technologies Used
+## 📸 Preview
 
-- **HTML5**
-- **CSS3**
-- **Font Awesome** (icons)
+![Amazon Clone Screenshot](./image/preview1.png)
+
+![Amazon Clone Screenshot](./image/preview2.png)
+
+---
+
+## ✨ Features
+
+- 🖼️ Pixel-perfect **Amazon-like layout** with header, hero banner, shop section, and footer.
+- 🔍 Functional **search bar UI** with dropdown and hover effects.
+- 📦 Product showcase grid with category cards and background images.
+- 📱 Fully **responsive design** for desktop and mobile.
+- 🎨 Styled with hover states, flexbox layout, and reusable components.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure of the page.
+- **CSS3** – Styling, layout, and responsiveness.
+- **Font Awesome** – For icons (search, cart, location, etc.).
 
 ---
 
 ## 📂 Project Structure
 
-project 3-folder/
-│── index.html # Main HTML file
-│── style.css # Stylesheet
-│── /image # Folder with images (logo, hero banner, product categories)
+```bash
+.
+├── index.html         # Main homepage
+├── style.css          # Styling for layout and components
+├── /image             # Assets (logos, hero banner, category images)
+└── README.md          # Documentation
+```
 
----
+## 📖 Sections Overview
 
-## 🎨 CSS Highlights
+Header / Navbar – Amazon logo, location, search bar, account, orders, and cart.
 
-- **Global Reset**
+Hero Section – Large banner with message and CTA.
 
-  ```css
-  * {
-      margin: 0;
-      font-family: Arial;
-      border: border-box;
-  }
+Shop Section – Category boxes (Fashion, Electronics, Furniture, etc.).
 
-Navigation Bar: Flexbox layout, hover effects, styled search box
+Footer – Back-to-top button, quick links, and site info.
 
-Hero Section: Full-width background image with centered message
+## 🔮 Possible Improvements (Future Enhancements)
 
-Shop Section: Grid-like boxes for product categories
+✅ Add interactivity with JavaScript (search functionality, cart updates, etc.).
 
-Footer: Dark background with links and back-to-top section
+✅ Improve responsiveness for all screen sizes.
 
----
+✅ Add hover animations for product boxes.
+
+✅ Implement a carousel/slider for hero section.
+
+✅ Add dropdown menus for categories.
