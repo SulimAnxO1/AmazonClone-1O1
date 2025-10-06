@@ -10,7 +10,6 @@ This project replicates the **UI and layout** of the Amazon landing page, featur
 ## 📸 Preview
 
 ![Amazon Clone Screenshot](./image/preview1.png)
-
 ![Amazon Clone Screenshot](./image/preview2.png)
 
 ---
