@@ -1,6 +1,6 @@
 # 🛒 Amazon Homepage Clone
 
-A **Amazon homepage clone** built with **HTML and CSS**.  
+**Amazon homepage clone** built with **HTML and CSS**.  
 This project replicates the **UI and layout** of the Amazon landing page, featuring navigation, hero section, product grid, and footer links.
 
 🌐 Live Demo: [View Project](https://amazon-homepage-clone-101.netlify.app/)
