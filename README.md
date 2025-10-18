@@ -22,24 +22,6 @@ This project replicates the **UI and layout** of the Amazon landing page, featur
 
 ---
 
-## 🛠️ Tech Stack
-
-- **HTML5** – Structure of the page.
-- **CSS3** – Styling, layout, and responsiveness.
-- **Font Awesome** – For icons (search, cart, location, etc.).
-
----
-
-## 📂 Project Structure
-
-```bash
-.
-├── index.html         # Main homepage
-├── style.css          # Styling for layout and components
-├── /image             # Assets (logos, hero banner, category images)
-└── README.md          # Documentation
-```
-
 ## 📖 Sections Overview
 
 Header / Navbar – Amazon logo, location, search bar, account, orders, and cart.
@@ -49,6 +31,8 @@ Hero Section – Large banner with message and CTA.
 Shop Section – Category boxes (Fashion, Electronics, Furniture, etc.).
 
 Footer – Back-to-top button, quick links, and site info.
+
+---
 
 ## 🔮 Possible Improvements (Future Enhancements)
 
@@ -61,3 +45,11 @@ Footer – Back-to-top button, quick links, and site info.
 ✅ Implement a carousel/slider for hero section.
 
 ✅ Add dropdown menus for categories.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure of the page.
+- **CSS3** – Styling, layout, and responsiveness.
+- **Font Awesome** – For icons (search, cart, location, etc.).
